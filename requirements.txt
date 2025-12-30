@@ -1,0 +1,2 @@
+# Python dependencies for Work Addiction Cause Analyzer
+# To be populated as needed
